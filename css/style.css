@@ -1,0 +1,20 @@
+button{
+	background-color: black;
+	color:white;
+	box-shadow: 3px 2px 5px blue;
+	font: sans-serif;
+}
+
+body{
+	background-color: lightgrey;
+	font-family: arial;
+}
+
+h1{
+	font-family: serif;
+}
+
+h3{
+	color: darkred;
+}
+
